@@ -16,11 +16,3 @@ To get this to work for your own accounts:
 The Ably Reactor provides Queues to consume realtime data, Events to trigger server-side code or functions in respons to realtime data, and Firehose to stream events to other queue or streaming services.
 
 [Find out more about the Ably Reactor](https://www.ably.io/reactor)
-
-# Questions
-
-Please visit http://support.ably.io/ for access to our knowledgebase and to ask for any assistance.
-
-# License
-
-Copyright (c) 2017 Ably Real-time Ltd, Licensed under the Apache License, Version 2.0. Refer to [LICENSE](./LICENSE) for the license terms.
