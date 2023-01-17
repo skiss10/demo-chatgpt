@@ -1,0 +1,13 @@
+{
+  "name": "Ably Neutrino Queue demo",
+  "description": "A simple demo to demonstrate using Ably Reactor Queues with Neutrino Profanity Filter",
+  "repository": "https://github.com/ably/tutorials/tree/queue-neutrino-profanity-filter-nodejs",
+  "logo": "https://files.ably.io/logo-70x70.png",
+  "keywords": ["Ably", "AMQP", "Profanity Filter", "realtime"],
+  "success_url": "/post-install.html",
+  "addons": [
+    {
+      "plan": "ably:test"
+    }
+  ]
+}
